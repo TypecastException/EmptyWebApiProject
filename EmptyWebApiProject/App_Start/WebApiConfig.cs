@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace EmptyWebApiTemplateProject.App_Start
+namespace EmptyWebApiProject.App_Start
 {
     public static class WebApiConfig
     {
